@@ -1,1 +1,1 @@
-# Chess
+# Chess with minmax 
