@@ -1,1 +1,1 @@
-# Chess with minmax 
+# Chess vs Minmax Algorithm
